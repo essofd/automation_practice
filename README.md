@@ -1,7 +1,7 @@
 ﻿
-(https://github.com/essofd/automation_practice) Automation Practice - Automação de Teste de Software
+#[](https://github.com/essofd/automation_practice) Automation Practice - Automação de Teste de Software
 
-Site Testado: Automation Practice - My Store - [www.automationpractice.com]( www.automationpractice.com)
+Site Testado: Automation Practice : [automationpractice](http://www.automationpractice.com/)
 
 Donwload do projeto: [Automation Practice](https://github.com/essofd/automation_practice/archive/master.zip).
 
@@ -10,8 +10,7 @@ IDE: [Eclipse](http://www.eclipse.org/)
 Java: [Java](http://www.oracle.com/technetwork/pt/java/index.html)
 Google Chrome: [Chrome](https://www.google.com.br/chrome/)
 
-Pré requisitos:
-Baixar o Chrome versão 86
+Pré requisitos: Baixar o Chrome versão 86
 
 **Caso de teste proposto: realizar uma compra com sucesso**
 1. Acessar o site: www.automationpractice.com.
