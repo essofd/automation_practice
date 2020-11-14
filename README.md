@@ -1,6 +1,7 @@
 ﻿
-# [](https://github.com/essofd/automation_practice) Automation Practice - Automação de Teste de Software
-Site Testado: Automation Practice - My Store - [ www.automationpractice.com]( www.automationpractice.com)
+(https://github.com/essofd/automation_practice) Automation Practice - Automação de Teste de Software
+
+Site Testado: Automation Practice - My Store - [www.automationpractice.com]( www.automationpractice.com)
 
 Donwload do projeto: [Automation Practice](https://github.com/essofd/automation_practice/archive/master.zip).
 
