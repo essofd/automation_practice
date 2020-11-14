@@ -53,4 +53,4 @@ Pré requisitos: Baixar o Chrome versão 86
  9. Ao terminar e a barra de status do JUnit ficar verde, acesse a pasta do projeto e clique em "reports" e clique para abrir o report.html no navegador web, você poderá verificar o resultado gerado.
 
 
- Obs: Caso queira rodar o teste novamente terá que alterar o campo e-mail no arquivo do caminho "/src/test/java/automation_pratice/testes/CompraProduto.java"
+ Obs: Caso queira rodar o teste novamente terá que alterar o campo "e-mail" no arquivo " CompraProduto.java" do caminho "/src/test/java/automation_pratice/testes/"
