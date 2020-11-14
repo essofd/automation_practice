@@ -53,4 +53,5 @@ Baixar o Chrome versão 86
  8. Espere o caso de teste ser executado no navegador web;
  9. Ao terminar e a barra de status do JUnit ficar verde, acesse a pasta do projeto e clique em "reports" e clique para abrir o report.html no navegador web, você poderá verificar o resultado gerado.
 
+
  Obs: Caso queira rodar o teste novamente terá que alterar o campo e-mail no arquivo "CompraProduto.java"
