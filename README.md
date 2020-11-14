@@ -48,9 +48,9 @@ Pré requisitos: Baixar o Chrome versão 86
  4. Em Import source, digite o endereço do projeto. Exemplo: "C:\Repositorio\automation_practice". Ou clique em "Directory" e selecione a pasta do projeto "automation_practice" e clique em "OK";
  5. Clique em "Finish" e espere o projeto carregar;
  6. Após, clique em "src/test/java";
- 7. Clique no pacote "testsuites" e com o botão direito sobre o regressionTestSuite.java e selecione "Run As" e após "JUnit Test";
+ 7. Clique no pacote "suites" e com o botão direito sobre o "SuiteTeste.java" e selecione "Run As" e após "JUnit Test";
  8. Espere o caso de teste ser executado no navegador web;
  9. Ao terminar e a barra de status do JUnit ficar verde, acesse a pasta do projeto e clique em "reports" e clique para abrir o report.html no navegador web, você poderá verificar o resultado gerado.
 
 
- Obs: Caso queira rodar o teste novamente terá que alterar o campo e-mail no arquivo "CompraProduto.java"
+ Obs: Caso queira rodar o teste novamente terá que alterar o campo e-mail no arquivo do caminho "/src/test/java/automation_pratice/testes/CompraProduto.java"
